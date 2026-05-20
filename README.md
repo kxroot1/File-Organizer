@@ -72,6 +72,6 @@ Make sure you have Python 3.x installed. (Uses standard libraries only, no exter
 
 3. Run the script:
    ```bash
-   python file_organizer.py```
+   python file_organizer.py
 4.Enter the full path of the folder you want to clean up (e.g., C:\Users\Name\Downloads).
    
