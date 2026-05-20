@@ -64,7 +64,7 @@ Make sure you have Python 3.x installed. (Uses standard libraries only, no exter
 ### Steps
 
 
-1. Save the code in a file named `file_organizer.py`.
+1. Save the code in a file named `main.py`.
 
 
 2. Open your terminal or command prompt.
@@ -72,6 +72,6 @@ Make sure you have Python 3.x installed. (Uses standard libraries only, no exter
 
 3. Run the script:
    ```bash
-   python file_organizer.py
+   python main.py
 4.Enter the full path of the folder you want to clean up (e.g., C:\Users\Name\Downloads).
    
